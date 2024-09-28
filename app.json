@@ -82,7 +82,7 @@
       "required": false
     },
     "OWNER_NUMBER": {
-      "description": "Enter your phone number without the '+' sign. Use your country code (e.g., '254' for Kenya).",
+      "description": "Enter your phone number without the '+' sign. Use your country code (e.g., '255' for Tanzania).",
       "value": "255620814108,255764182801,255752593977",
       "required": false
     },
