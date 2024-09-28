@@ -72,7 +72,7 @@
       "required": false
     },
     "SESSION_ID": {
-      "description": "Place your unique FLASH MD session ID here. This is required for the bot to function.",
+      "description": "Place your unique LUCKY MD session ID here. This is required for the bot to function.",
       "value": "",
       "required": true
     },
